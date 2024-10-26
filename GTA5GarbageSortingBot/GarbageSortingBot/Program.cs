@@ -24,7 +24,6 @@ namespace GarbageSortingBot
 
         private static readonly List<string> _glassImagePaths = new List<string>
         {
-             Path.Combine(Directory.GetCurrentDirectory(), "Resources", "Glass1.png"),
              Path.Combine(Directory.GetCurrentDirectory(), "Resources", "Glass2.png")
         };
 
